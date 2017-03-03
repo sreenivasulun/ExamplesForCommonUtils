@@ -1,2 +1,10 @@
-# ExamplesForCommonUtils
-Examples for common util functions of dates, arrays, promises, async, OOPs, searching, etc..in Javascript
+# Examples For CommonUtils
+
+Examples on the following,
+
+Date manipulations
+Array manipulations
+Promise usage
+Searching in arrays
+Async programming
+etc...
