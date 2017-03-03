@@ -1,10 +1,10 @@
 # Examples For CommonUtils
 
-Examples on the following,
+### Examples on the following,
 
-Date manipulations
-Array manipulations
-Promise usage
-Searching in arrays
-Async programming
-etc...
+* Date manipulations: date format conversions, adding, subtracting, etc...
+* Array manipulations: 
+* Promise usage
+* Searching in arrays
+* Async programming
+* etc...
